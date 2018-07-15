@@ -25,6 +25,7 @@
     "eslint": "^5.1.0",
     "eslint-config-dollarshaveclub": "^3.1.0",
     "jest": "^23.4.1",
+    "jsdoc": "^3.5.5",
     "standard": "^11.0.1",
     "typescript": "^2.9.2"
   }
